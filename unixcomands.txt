@@ -1,2 +1,2 @@
-command for finding the version of unix system ::
+command for finding the ip adress of unix system ::
 nslookup `hostname` | grep -i address  
